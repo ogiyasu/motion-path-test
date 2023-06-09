@@ -46,6 +46,7 @@ class MyDocument extends Document {
           ) : (
             ''
           )}
+          <Head />
           <Main />
           <NextScript />
         </body>
